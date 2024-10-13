@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/oshadarrodrigo" target="blank"><img src="https://img.shields.io/twitter/follow/oshadarrodrigo?logo=twitter&style=for-the-badge" alt="oshadarrodrigo" /></a> </p>
 
-- 🔭 I’m currently working on **University App Design**
-
 - 🌱 I’m currently learning **Computer Science Degree**
 
 - 💬 Ask me about **UI/UX Design, Web Dev, Programming in Python**
@@ -33,10 +31,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/oshadarashmika"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/oshadarashmika" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oshada-rashmika&show_icons=true&locale=en&layout=compact" alt="oshada-rashmika" /></p><br><br><br>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=oshada-rashmika&show_icons=true&locale=en" alt="oshada-rashmika" /></p><br><br><br><br><br><br>
-<br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=oshada-rashmika&" alt="oshada-rashmika" /></p>
+
 
 
