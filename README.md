@@ -125,7 +125,7 @@
 
 ###
 
-<p align="left">Nmap, Wireshark, Burp Suite, Metasploit Framework, John the Ripper, Aircrack-ng, OpenVAS, Nikto, Hashcat, Snort, Maltego, TryHackMe, Kali Linux, CyberChef</p>
+<p align="left">Tools I Use: Nmap, Wireshark, Burp Suite, Metasploit Framework, John the Ripper, Aircrack-ng, OpenVAS, Nikto, Hashcat, Snort, Maltego, TryHackMe, Kali Linux, CyberChef</p>
 
 ###
 
