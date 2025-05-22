@@ -120,7 +120,7 @@
 ###
 
 <div align="left">
-  <img height="100" src="https://tryhackme-badges.s3.amazonaws.com/Gh0stFac3.exe.png?update=5"  />
+  <img height="100" src="https://tryhackme-badges.s3.amazonaws.com/Gh0stFac3.exe.png?update=6"  />
 </div>
 
 ###
