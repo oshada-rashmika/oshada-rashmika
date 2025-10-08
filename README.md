@@ -112,7 +112,7 @@
 
 ###
 
-<img align="left" height="76" src="https://tryhackme-badges.s3.amazonaws.com/Gh0stFac3.exe.png?update=6"  />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3752488" style='border:none;'></iframe>
 
 ###
 
