@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">Computer Science Undergraduate 💻 | Freelance UI/UX Designer 🎨 | AI & Cybersecurity Enthusiast 🤖🛡️| 🛡️ Purple Team Operator | 🔍 Criminology & Digital Forensics Learner | 🧠 AI for Mental Health Researcher</h3>
+<h3 align="center">Computer Science Undergraduate 💻 | Offensive Security Practitioner & Red Teaming Associate 🤖🛡️| 🧠 Agentic AI & Autonomous Systems Researcher | Freelance UI/UX Designer 🎨 | 🔍 Criminology & Digital Forensics Learner</h3>
 
 ###
 
