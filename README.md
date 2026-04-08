@@ -67,8 +67,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="36" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="36" alt="c logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="36" alt="dot-net logo"  />
 </div>
 
@@ -82,6 +80,10 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="36" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="36" alt="firebase logo"  />
 </div>
 
 ###
