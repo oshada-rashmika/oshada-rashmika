@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img height="500" width="100%" src="https://media.tenor.com/HGqYnMAtAJwAAAAC/one-piece.gif"/>
+  <img height="500" width="100%" src="https://media1.tenor.com/m/vYNIKsyQL-cAAAAC/wasa.gif"/>
 </div>
 
 ###
