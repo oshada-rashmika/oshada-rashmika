@@ -50,6 +50,8 @@
   <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="36" alt="flutter logo"  />
 </div>
 
 ###
