@@ -26,6 +26,18 @@
 
 <br clear="both">
 
+<h2 align="center">🎵 Audio Feed (Live)</h2>
+
+<div align="center">
+  <a href="https://www.last.fm/user/YOUR_LASTFM_USERNAME">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=damienvale&theme=tokyonight" alt="Currently Listening" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
 <h2 align="center">🏴‍☠️ Tech Stack</h2>
 
 ###
