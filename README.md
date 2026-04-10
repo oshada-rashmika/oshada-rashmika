@@ -30,7 +30,7 @@
 
 <div align="center">
   <a href="https://www.last.fm/user/damienvale">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=damienvale&theme=tokyonight" alt="Currently Listening" />
+    <img src="https://lastfm-recently-played.vercel.app/api?user=damienvale&theme=tokyonight&count=3" alt="Currently Listening" />
   </a>
 </div>
 
