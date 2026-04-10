@@ -51,12 +51,6 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="36" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"  />
@@ -118,8 +112,6 @@
   <img src="https://skillicons.dev/icons?i=postman" height="36" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="36" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="36" alt="stackoverflow logo"  />
 </div>
 
 ###
