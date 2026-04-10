@@ -143,14 +143,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oshada-rashmika/oshada-rashmika/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oshada-rashmika/oshada-rashmika/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oshada-rashmika/oshada-rashmika/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oshada-rashmika&theme=transparent&area=true&order=5" height="300" alt="activity-graph graph"/>
 </div>
