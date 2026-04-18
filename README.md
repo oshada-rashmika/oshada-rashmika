@@ -52,14 +52,16 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="bootstrap logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=flutter" height="36" alt="flutter logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="nextjs logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="36" alt="typescript logo"  />
 </div>
 
 ###
