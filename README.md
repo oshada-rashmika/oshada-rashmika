@@ -58,6 +58,8 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="36" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="nextjs logo"  />
 </div>
 
 ###
