@@ -4,39 +4,29 @@
 
 **"Since when were you under the impression that your production environment was safe?"**
 
-💀 **Red Teaming Associate** @GhostNet
-🎨 **UI/UX Mastermind** & Full-Stack Architect
-🧠 Currently researching **Agentic AI** and **Autonomous Systems**
+💀 **Red Teaming Associate** @GhostNet >> 🎨 **UI/UX Mastermind** & **Full-Stack Architect** >> 🧠 Currently researching **Agentic AI** and **Autonomous Systems**
 
-⚡ Sunset exploits : Moonlit chaos.
-🎧 Lana on loop : Unoptimized code's funeral.
-🦋 Part of the Hogyoku... I mean, the Sri Lankan tech ecosystem.
+- ⚡ Sunset exploits : Moonlit chaos.
+- 🎧 Lana on loop : Unoptimized code's funeral.
+- 🦋 Part of the Hogyoku... I mean, the Sri Lankan tech ecosystem.
 
 <br clear="left"/>
 
 ---
 
-### 🔮 The Hogyoku's Arsenal (Tech Stack)
+```
+█▀ █▀█ █░█ █░░   █▀ █▀█ █▀▀ █ █▀▀ ▀█▀ █▄█   █▀▄ █▀█ █▀ █▀ █ █▀▀ █▀█
+▄█ █▄█ █▄█ █▄▄   ▄█ █▄█ █▄▄ █ ██▄ ░█░ ░█░   █▄▀ █▄█ ▄█ ▄█ █ ██▄ █▀▄
+```
 
-<table border="0" cellpadding="6" cellspacing="0">
-  <tr>
-    <td align="center" nowrap><b>⚡ Frontend</b></td>
-    <td><code>React</code> &nbsp;·&nbsp; <code>Next.js</code> &nbsp;·&nbsp; <code>TypeScript</code> &nbsp;·&nbsp; <code>Tailwind</code> &nbsp;·&nbsp; <code>HTML</code> &nbsp;·&nbsp; <code>Figma</code> &nbsp;·&nbsp; <code>PHP</code></td>
-  </tr>
-  <tr>
-    <td align="center" nowrap><b>🖤 Backend</b></td>
-    <td><code>Node.js</code> &nbsp;·&nbsp; <code>NestJS</code> &nbsp;·&nbsp; <code>Prisma</code> &nbsp;·&nbsp; <code>Supabase</code> &nbsp;·&nbsp; <code>MongoDB</code> &nbsp;·&nbsp; <code>Firebase</code> &nbsp;·&nbsp; <code>Postman</code></td>
-  </tr>
-  <tr>
-    <td align="center" nowrap><b>💻 QA Testing</b></td>
-    <td><code>Jest</code> &nbsp;·&nbsp; <code>Selenium</code></td>
-  </tr>
-  <tr>
-    <td align="center" nowrap><b>📱 Mobile</b></td>
-    <td><code>Flutter</code></td>
-  </tr>
-</table>
+🌸 **『 FRONTEND // SHIKAI // 解放 』** : `React` | `Next.js` | `TypeScript` | `Tailwind` | `HTML` | `Figma` | `PHP`
 
-<br>
+💀 **『 BACKEND // BANKAI // 卍解 』** : `Node.js` | `NestJS` | `Prisma` | `Supabase` | `MongoDB` | `Firebase` | `Postman`
+
+🧪 **『 QA //KIDŌ // 鬼道 』** : `Jest` | `Selenium`
+
+📱 **『 MOBILE // FULLBRING // 完現術 』** : `Flutter`
+
+---
 
 > **"Reason is for those who cannot live without clinging to it."** : *Transpiring beyond codebase limits with the MERN stack and beyond.*
