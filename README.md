@@ -1,58 +1,40 @@
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0">
   <tr>
-    <td width="35%" valign="middle" align="center">
-      <!-- The Vasto Lorde/Aizen presence -->
-      <img src="assets/ichigo.png" width="380" alt="Persona" />
+    <!-- Left Side: The PNG -->
+    <td width="35%" valign="top" align="center">
+      <img src="assets/ichigo.png" width="100%" alt="Persona" />
     </td>
-    <td width="65%" valign="middle">
+    <!-- Right Side: The Mastermind Logic -->
+    <td width="65%" valign="top">
       <h1>HELLO / ආයුබෝවන් / こんにちは 👋</h1>
-      
-      <!-- Interactive Typing Effect -->
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=500&lines=Damien+Vale+De+Silva+Rodrigo;2nd-Year+CS+Prodigy+@NSBM;Digital+Architect+%26+Full-Stack+Mage;The+antagonist+your+codebase+warned+you+about." alt="Typing SVG" />
-      </a>
-
+      <p><b>"Since when were you under the impression that you were looking at a static profile?"</b></p>
       <p>
-        Welcome to my <b>Soul Society</b>. I don't just write code—I drop a <b>Domain Expansion</b> on unoptimized architecture and casually walk away. Whether I'm orchestrating <b>Agentic AI</b> systems or dismantling firewalls with <b>Kido-level</b> precision, I'm here to rewrite the rules of the digital game.
+        I'm <b>Damien Vale</b>, a 2nd-year CS Undergrad @<b>NSBM</b> by day and a digital architect orchestrating illusions by night. I don't just write code—I craft digital experiences so seamless they feel like a perfected <i>Kyōka Suigetsu</i>.
       </p>
-
       <p>
-        🛡️ <b>Offensive Security</b> | GhostNet's shadow operator<br>
-        🎨 <b>UI/UX Alchemy</b> | Crafting interfaces that feel illegal<br>
-        🧠 <b>Agentic AI</b> | Automating the world, one agent at a time
+        💀 <b>Offensive Security Lead</b> @GhostNet — Slicing through firewalls.<br>
+        🌌 <b>Full-Stack Architect & UI/UX Mastermind</b> — Designing the future.<br>
+        🧪 <b>Researcher</b> — Evolving Agentic AI & Digital Forensics.
       </p>
-
       <p>
-        <i>"Admiration is the furthest thing from understanding."</i> — <b>Building the Hogyoku of Software.</b>
+        ⚡ Breaking logic as the sun sets, orchestrating chaos as the moon rises.<br>
+        🎧 Blasting Lana Del Rey while dismantling unoptimized architectures.<br>
+        🦋 Part of the Hogyoku... I mean, the Sri Lankan tech ecosystem.
       </p>
     </td>
   </tr>
 </table>
 
+<br>
+
 ---
 
-### 🔮 The Cursed Techniques (Tech Stack)
+### 🔮 The Digital Illusion (Tech Arsenal)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs,supabase,prisma,mongodb,figma,flutter&theme=dark" />
-</p>
-
-> **Bankai:** My tech stack is tuned for lethality. If you're looking for a generic corporate code-monkey, keep scrolling. But if you want a tech-hitman who builds lethal digital experiences... you've found the source.
-
----
-
-### 🐍 Contribution Stealth (The Addictive Bit)
-
-<div align="center">
-  <!-- This generates a fun snake game from your GitHub contributions -->
-  <img src="https://raw.githubusercontent.com/oshada-rashmika/oshada-rashmika/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<p align="center">
-  <a href="mailto:oshadar.rodrigo@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Initiate+Contact&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="gmail" />
-  </a>
-  <a href="https://www.instagram.com/v0idv3lour">
-    <img src="https://img.shields.io/static/v1?message=Shadow+Feed&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" alt="instagram" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs,supabase,prisma,mongodb,figma,flutter&theme=dark" />
   </a>
 </p>
+
+> **"Reason is for those who cannot live without clinging to it."** — *Transceending codebase limits with the MERN stack and beyond.*
