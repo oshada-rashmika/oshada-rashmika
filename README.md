@@ -9,9 +9,6 @@
       <h1>HELLO / ආයුබෝවන් / こんにちは 👋</h1>
       <p><b>"Since when were you under the impression that your production environment was safe?"</b></p>
       <p>
-        I am <b>Damien Vale De Silva Rodrigo</b>, a second-year Computer Science undergraduate at NSBM. By day, I navigate the academic grind; by night, I am the technical lead your codebase warned you about. I don't just write code: I drop a Domain Expansion on unoptimized architecture and walk away while the servers finally breathe.
-      </p>
-      <p>
         💀 <b>Red Teaming Associate</b> @GhostNet: Slicing through firewalls with surgical precision.<br>
         🌌 <b>Full-Stack & UI/UX Mastermind</b>: Crafting interfaces so clean they feel like a digital illusion.<br>
         🧪 <b>Agentic AI Researcher</b>: Building autonomous systems that evolve beyond human limits.
