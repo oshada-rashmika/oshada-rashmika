@@ -1,66 +1,41 @@
-<div align="center">
+<img src="assets/ichigo.png" align="left" width="28%" alt="The Hollow"/>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
-  <tr>
-    <td width="35%" valign="middle" align="center" style="border:none;">
-      <img src="assets/ichigo.png" width="100%" alt="The Hollow" />
-    </td>
-    <td width="65%" valign="top" style="padding-left: 20px; border:none;">
-      <h1>HELLO // ආයුබෝවන් // こんにちは 👋</h1>
-      <p><b>"Since when were you under the impression that your production environment was safe?"</b></p>
-      <p>
-        💀 <b>Red Teaming Associate</b> @GhostNet <br>
-        🎨 <b>UI/UX Mastermind</b> & Full-Stack Architect<br>
-        🧠 Currently researching <b>Agentic AI</b> and <b>Autonomous Systems</b>
-      </p>
-      <p>
-        - ⚡ Sunset exploits : Moonlit chaos.<br>
-        - 🎧 🎧 Lana on loop : Unoptimized code's funeral.<br>
-        - 🦋 Part of the Hogyoku... I mean, the Sri Lankan tech ecosystem.
-      </p>
-    </td>
-  </tr>
-</table>
+### HELLO // ආයුබෝවන් // こんにちは 👋
 
-</div>
+**"Since when were you under the impression that your production environment was safe?"**
 
-<br>
+💀 **Red Teaming Associate** @GhostNet
+🎨 **UI/UX Mastermind** & Full-Stack Architect
+🧠 Currently researching **Agentic AI** and **Autonomous Systems**
+
+⚡ Sunset exploits : Moonlit chaos.
+🎧 Lana on loop : Unoptimized code's funeral.
+🦋 Part of the Hogyoku... I mean, the Sri Lankan tech ecosystem.
+
+<br clear="left"/>
 
 ---
 
 ### 🔮 The Hogyoku's Arsenal (Tech Stack)
 
-<details>
-<summary>⚡ Frontend</summary>
-<br>
-
-`React` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Figma` &nbsp;·&nbsp; `HTML` &nbsp;·&nbsp; `Tailwind` &nbsp;·&nbsp; `PHP`
-
-</details>
-
-<details>
-<summary>🖤 Backend</summary>
-<br>
-
-`Node.js` &nbsp;·&nbsp; `NestJS` &nbsp;·&nbsp; `Prisma` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `MongoDB` &nbsp;·&nbsp; `Firebase` &nbsp;·&nbsp; `Postman`
-
-</details>
-
-<details>
-<summary>💻 QA Testing</summary>
-<br>
-
-`Jest` &nbsp;·&nbsp; `Selenium`
-
-</details>
-
-<details>
-<summary>📱 Mobile</summary>
-<br>
-
-`Flutter`
-
-</details>
+<table border="0" cellpadding="6" cellspacing="0">
+  <tr>
+    <td align="center" nowrap><b>⚡ Frontend</b></td>
+    <td><code>React</code> &nbsp;·&nbsp; <code>Next.js</code> &nbsp;·&nbsp; <code>TypeScript</code> &nbsp;·&nbsp; <code>Tailwind</code> &nbsp;·&nbsp; <code>HTML</code> &nbsp;·&nbsp; <code>Figma</code> &nbsp;·&nbsp; <code>PHP</code></td>
+  </tr>
+  <tr>
+    <td align="center" nowrap><b>🖤 Backend</b></td>
+    <td><code>Node.js</code> &nbsp;·&nbsp; <code>NestJS</code> &nbsp;·&nbsp; <code>Prisma</code> &nbsp;·&nbsp; <code>Supabase</code> &nbsp;·&nbsp; <code>MongoDB</code> &nbsp;·&nbsp; <code>Firebase</code> &nbsp;·&nbsp; <code>Postman</code></td>
+  </tr>
+  <tr>
+    <td align="center" nowrap><b>💻 QA Testing</b></td>
+    <td><code>Jest</code> &nbsp;·&nbsp; <code>Selenium</code></td>
+  </tr>
+  <tr>
+    <td align="center" nowrap><b>📱 Mobile</b></td>
+    <td><code>Flutter</code></td>
+  </tr>
+</table>
 
 <br>
 
