@@ -2,7 +2,7 @@
   <tr>
     <td width="25%" valign="top">
       <!-- Replace 'assets/aizen.png' with your actual file path once uploaded -->
-      <img src="assets/aizen.png" width="100%" alt="Aizen Persona" />
+      <img src="assets/ichigo.png" width="100%" alt="Aizen Persona" />
     </td>
     <td width="75%" valign="top">
       <h1>HELLO / ආයුබෝවන් / こんにちは 👋</h1>
