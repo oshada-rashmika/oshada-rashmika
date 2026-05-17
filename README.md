@@ -23,7 +23,7 @@
 
 💀 **『 BACKEND // BANKAI // 卍解 』** : `Node.js` | `NestJS` | `Prisma` | `Supabase` | `MongoDB` | `Firebase` | `Postman`
 
-🧪 **『 QA // KIDŌ // 鬼道 』** : `Jest` | `Selenium`
+🧪 **『 QA // KIDŌ // 鬼道 』** : `Jest` | `Vitest` | `Playwright` | `Cypress`
 
 📱 **『 MOBILE // FULLBRING // 完現術 』** : `Flutter`
 
