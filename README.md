@@ -19,9 +19,9 @@
 ▄█ █▄█ █▄█ █▄▄   ▄█ █▄█ █▄▄ █ ██▄ ░█░ ░█░   █▄▀ █▄█ ▄█ ▄█ █ ██▄ █▀▄
 ```
 
-🌸 **『 FRONTEND // SHIKAI // 解放 』** : `React` | `Next.js` | `TypeScript` | `Tailwind` | `HTML` | `Figma` | `PHP`
+🌸 **『 FRONTEND // SHIKAI // 解放 』** : `React` | `Next.js` | `TypeScript` | `Tailwind` | `HTML&CSS` | `Figma` | `PHP`
 
-💀 **『 BACKEND // BANKAI // 卍解 』** : `Node.js` | `NestJS` | `Prisma` | `Supabase` | `MongoDB` | `Firebase` | `Postman`
+💀 **『 BACKEND // BANKAI // 卍解 』** : `Node.js` | `NestJS` | `Prisma` | `Supabase` | `MongoDB` | `Firebase` | `Postman` | `Java` | `C#`
 
 🧪 **『 QA // KIDŌ // 鬼道 』** : `Jest` | `Vitest` | `Playwright` | `Cypress`
 
