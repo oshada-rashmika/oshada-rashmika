@@ -1,32 +1,36 @@
-<img src="assets/ichigo.png" align="left" width="28%" alt="The Hollow"/>
+<img src="assets/spidey.png" align="left" width="28%" alt="The Hollow"/>
 
 ### HELLO // ආයුබෝවන් // こんにちは 👋
 
-**"Since when were you under the impression that your production environment was safe?"**
+**"With great power, comes great responsibility... and zero unhandled exceptions."**
 
 💀 **Red Teaming Associate** @GhostNet >> 🎨 **UI/UX Mastermind** & **Full-Stack Architect** >> 🧠 Currently researching **Agentic AI** and **Autonomous Systems**
 
-- ⚡ Sunset exploits : Moonlit chaos.
+- ⚡ Catching bugs : Just like flies.
 - 🎧 Lana on loop : Unoptimized code's funeral.
-- 🦋 Part of the Hogyoku... I mean, the Sri Lankan tech ecosystem.
+- 🦋 Protecting the city...I mean, contributing to the Sri Lankan tech ecosystem.
 
 <br clear="left"/>
 
 ---
 
 ```
-█▀ █▀█ █░█ █░░   █▀ █▀█ █▀▀ █ █▀▀ ▀█▀ █▄█   █▀▄ █▀█ █▀ █▀ █ █▀▀ █▀█
-▄█ █▄█ █▄█ █▄▄   ▄█ █▄█ █▄▄ █ ██▄ ░█░ ░█░   █▄▀ █▄█ ▄█ ▄█ █ ██▄ █▀▄
+                                                                                      
+                                                                                      
+▄█████ █████▄ ██ ████▄  ██████ ██  ██   ████▄  ▄████▄ ▄█████ ▄█████ ██ ██████ █████▄  
+▀▀▀▄▄▄ ██▄▄█▀ ██ ██  ██ ██▄▄    ▀██▀    ██  ██ ██  ██ ▀▀▀▄▄▄ ▀▀▀▄▄▄ ██ ██▄▄   ██▄▄██▄ 
+█████▀ ██     ██ ████▀  ██▄▄▄▄   ██     ████▀  ▀████▀ █████▀ █████▀ ██ ██▄▄▄▄ ██   ██ 
+                                                                                      
 ```
 
-🌸 **『 FRONTEND // SHIKAI // 解放 』** : `React` | `Next.js` | `TypeScript` | `Tailwind` | `HTML&CSS` | `Figma` | `PHP`
+🕷️ **『 FRONTEND // WEB-LINE 』** : `React` | `Next.js` | `TypeScript` | `Tailwind` | `HTML&CSS` | `Figma` | `PHP`
 
-💀 **『 BACKEND // BANKAI // 卍解 』** : `Node.js` | `NestJS` | `Prisma` | `Supabase` | `MongoDB` | `Firebase` | `Postman` | `Java` | `C#`
+💀 **『 BACKEND // SPIDER-SENSE 』** : `Node.js` | `NestJS` | `Prisma` | `Supabase` | `MongoDB` | `Firebase` | `Postman` | `Java` | `C#`
 
-🧪 **『 QA // KIDŌ // 鬼道 』** : `Jest` | `Vitest` | `Playwright` | `Cypress`
+🧪 **『 QA // LAB WORK 』** : `Jest` | `Vitest` | `Playwright` | `Cypress`
 
-📱 **『 MOBILE // FULLBRING // 完現術 』** : `Flutter`
+📱 **『 MOBILE // SUIT TECH 』** : `Flutter` | `Kotlin`
 
 ---
 
-> **"Reason is for those who cannot live without clinging to it."** : *Transpiring beyond codebase limits with the MERN stack and beyond.*
+> **"It's a leap of faith. That's all it is."** : *Pushing to production with the MERN stack and beyond.*
