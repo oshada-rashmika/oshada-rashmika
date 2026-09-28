@@ -4,7 +4,7 @@
 
 **"With great power, comes great responsibility... and zero unhandled exceptions."**
 
-💀 **Red Teaming Associate** @GhostNet >> 🎨 **UI/UX Mastermind** & **Full-Stack Architect** >> 🧠 Currently researching **Agentic AI** and **Autonomous Systems**
+💻 **AI Systems Engineer** @VelovsTechnologies >> 🧠 Currently researching **Agentic AI** and **Autonomous Systems** 💀 **Red Teaming Associate** @GhostNet >>
 
 - ⚡ Catching bugs : Just like flies.
 - 🎧 Lana on loop : Unoptimized code's funeral.
