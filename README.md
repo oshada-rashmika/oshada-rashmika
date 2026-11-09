@@ -25,11 +25,11 @@
 
 🕷️ **『 FRONTEND // WEB-LINE 』** : `React` | `Next.js` | `TypeScript` | `Tailwind` | `HTML&CSS` | `Figma` | `PHP`
 
-💀 **『 BACKEND // SPIDER-SENSE 』** : `Node.js` | `NestJS` | `Prisma` | `Supabase` | `MongoDB` | `Firebase` | `Postman` | `Java` | `C#`
+💀 **『 BACKEND // SPIDER-SENSE 』** : `Node.js` | `NestJS` | `Prisma` | `Supabase` | `MongoDB` | `Firebase` | `Postman` | `Java` | `C#` | `Python`
 
 🧪 **『 QA // LAB WORK 』** : `Jest` | `Vitest` | `Playwright` | `Cypress`
 
-📱 **『 MOBILE // SUIT TECH 』** : `Flutter` | `Kotlin`
+📱 **『 MOBILE // SUIT TECH 』** : `Flutter` | `Kotlin` | `React Native`
 
 ---
 
